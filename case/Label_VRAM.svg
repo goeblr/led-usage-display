@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 27.171467 7.5189209"
+   height="7.5189209mm"
+   width="27.171467mm">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-20.462317,-24.039876)"
+     id="layer1">
+    <g
+       id="flowRoot815"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="scale(0.26458333)"
+       aria-label="VRAM">
+      <path
+         id="path823"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         d="m 77.337891,90.878906 h 5.507812 l 6.035156,18.945314 6.035157,-18.945314 h 5.507814 l -9.453127,28.398434 h -4.179687 z" />
+      <path
+         id="path825"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         d="m 106.14648,102.69531 h 9.88282 q 0.82031,0 1.44531,-0.41015 0.625,-0.41016 0.95703,-1.17188 0.35156,-0.76172 0.37109,-1.757811 v 0 q 0,-0.996094 -0.35156,-1.757813 -0.33203,-0.761719 -0.95703,-1.171875 -0.625,-0.410156 -1.46484,-0.410156 h -9.88282 v -5.15625 h 10.3125 q 2.34375,0 4.1211,1.054687 1.77734,1.054688 2.7539,2.988282 0.97657,1.914062 0.97657,4.453125 v 0 q 0,2.539061 -0.97657,4.472661 -0.97656,1.91406 -2.77343,2.96875 -1.77735,1.05468 -4.10157,1.05468 h -10.3125 z m -2.1289,-11.835935 h 5.35156 v 28.417965 h -5.35156 z m 8.10547,16.113285 5.72265,-0.89844 7.65625,13.20312 h -6.48437 z" />
+      <path
+         id="path827"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         d="m 137.29883,90.878906 h 3.39844 l 10.85937,28.398434 h -5.76172 l -6.79687,-19.394528 -6.79688,19.394528 h -5.76172 z m -5.64453,18.691404 h 14.9414 v 5.15625 h -14.9414 z" />
+      <path
+         id="path829"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         d="m 172.98242,90.878906 h 7.05078 v 28.398434 h -4.86328 V 97.226562 l 0.19531,1.25 -5.42968,17.636718 h -4.72657 l -5.42968,-17.246093 0.19531,-1.640625 v 22.050778 h -4.86328 V 90.878906 h 7.05078 l 5.41016,19.140624 z" />
+    </g>
+  </g>
+</svg>
