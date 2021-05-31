@@ -1,4 +1,4 @@
 @echo off
-install_win.bat
+call install_win.bat
 
-cp usageDisplayHost\usageDisplay.pyw "%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup"
+copy usageDisplayHost\usageDisplay.pyw "%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup"

@@ -1,3 +1,3 @@
 #!/bin/bash
 
-pip3 install usageDisplayHost/requirements.txt
+pip3 install -r usageDisplayHost/requirements.txt

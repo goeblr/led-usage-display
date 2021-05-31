@@ -1,3 +1,3 @@
 @echo off
 
-pip install usageDisplayHost/requirements.txt
+pip install -r usageDisplayHost/requirements.txt
