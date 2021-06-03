@@ -46,6 +46,11 @@ if __name__ == "__main__":
             # filter the serial devices for supported IDs
             ports_valid = [port for port in ports if port.vid in interface_ids.keys()]
             ports_valid = [port for port in ports_valid if port.pid in interface_ids[port.vid]]
+            
+            if len(ports_valid) < 1:
+                # no device connected, alright :)
+                time.sleep(60)
+                continue
                         
             # connect to the port
             serial_port_name = ports_valid[0].device
@@ -59,4 +64,5 @@ if __name__ == "__main__":
                 time.sleep(1)
         except serial.serialutil.SerialException as e:
             # encountered a problem with the serial port. Let's not worry, it probably was just disconnected :)
+            # print("caught SerialException '{}'".format(e))
             time.sleep(60)
